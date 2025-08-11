@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "test-badge",
-  "message": "pass",
-  "color": "brightgreen"
+  "message": "fail",
+  "color": "brightred"
 }
